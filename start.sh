@@ -1,0 +1,1 @@
+ncat -lk 8080 --sh-exec "./core.sh"
